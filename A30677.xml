@@ -1,0 +1,641 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short catechism containing those fundamental points of religion, the knowledge of which is necessary to salvation / compiled for the examination of communicants, before they be admitted to the sacrament ... by E. Bury.</title>
+            <author>Bury, Edward, 1616-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30677</idno>
+            <idno type="STC">Wing B6210</idno>
+            <idno type="STC">ESTC R37523</idno>
+            <idno type="EEBO-CITATION">16966571</idno>
+            <idno type="OCLC">ocm 16966571</idno>
+            <idno type="VID">105535</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105535)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1610:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short catechism containing those fundamental points of religion, the knowledge of which is necessary to salvation / compiled for the examination of communicants, before they be admitted to the sacrament ... by E. Bury.</title>
+                  <author>Bury, Edward, 1616-1700.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W. for Nevil Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages creased, with slight loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Examinations, questions, etc.</term>
+               <term>Catechisms, English --  Early works to 1800.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105535:1"/>
+            <pb facs="tcp:105535:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Short Catechiſm;</hi> CONTAINING Thoſe Fundamental Points OF RELIGION, The Knowledge of which is neceſſary to Salvation.</p>
+            <p>Compiled for the Examination of COMMUNICANTS, before they be Admitted to the SACRAMENT. According to the Rules in the Ordinance of Par<g ref="char:EOLhyphen"/>liament, of <hi>Octob.</hi> 20. 1645. in that caſe made and provided.</p>
+            <p>By <hi>E. B<g ref="char:V">Ʋ</g>RY.</hi>
+            </p>
+            <q>
+               <bibl>Pſal. 119.130.</bibl>
+               <p>The entrance into thy Word giveth light, it giveth underſtanding to the ſimple.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>R. W.</hi> for <hi>Nevil Simmons,</hi> Book ſeller in <hi>Kederminſter,</hi> 1660</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:105535:2"/>
+            <pb facs="tcp:105535:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">C</seg>Hriſtian Reader,</salute>
+            </opener>
+            <p>when I con<g ref="char:EOLhyphen"/>ſidered the neceſſity of Know<g ref="char:EOLhyphen"/>ledge, and the danger of Ig<g ref="char:EOLhyphen"/>norance; I thought it was my duty to teach and inſtruct thoſe under my charge, eſpe<g ref="char:EOLhyphen"/>cially in the Fundamental points of Religi<g ref="char:EOLhyphen"/>on; and therefore I ſet upon the needful, though much neglected duty of Catechizing, as the likelieſt way to ground my people in the Truth, and to eſtabliſh them againſt Error. But after divers years experience, I found not the deſired effect of my labours; many (eſpecially of the elder ſort) com<g ref="char:EOLhyphen"/>plained, the Catechiſm that I taught (which was the Aſſemblies) was too hard, and long, that they had not time to learn it, nor me<g ref="char:EOLhyphen"/>mories to retain it. Now to leave theſe men without excuſe, I have drawn up the chief heads of Religion, in as ſhort a compaſs and plain a manner as I well could; not that I
+<pb facs="tcp:105535:3"/>would hereby diſcourage any from learning the other (which queſtionleſs is well worth their labour, it being the exacteſt that is ex<g ref="char:EOLhyphen"/>tant) but my deſire is to encourage thoſe to learn this, which otherwiſe would learn none at all: if thou reap any benefit by it, Bleſs God with me, who remain</p>
+            <closer>
+               <signed>Thine for thy ſouls good, <hi>E. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb n="1" facs="tcp:105535:3"/>
+            <head>A Short Catechiſm.</head>
+            <p>
+               <label>Queſtion.</label>
+               <lb/>
+               <hi>
+                  <seg rend="decorInit">O</seg>F what Religion art thou?</hi>
+            </p>
+            <p>
+               <label>Anſwer.</label>
+               <lb/>
+Of the Chriſtian Religion, <hi>Act.</hi> 11.26. 1 <hi>Pet</hi> 4.16. <hi>Act.</hi> 26.28.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What Religion is that?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> That which teacheth us to look for Salvation by Chriſt alone, <hi>Act.</hi> 4.10, 11, 12.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Where is that Religion taught?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> In the holy Scriptures of the Old and New Teſtament, 2 <hi>Tim.</hi> 3.16. <hi>Rom.</hi> 15.4.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What do the Scriptures principally teach us?</hi>
+            </p>
+            <p>
+               <label>Anſw</label> The knowledge of God and our ſelves, 2 <hi>Tim.</hi> 3.16. <hi>Joh.</hi> 17.3. <hi>Col.</hi> 2.12.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What knowledge of God is requi<g ref="char:EOLhyphen"/>ſite?</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:105535:4"/>
+               <label>Anſw.</label> We muſt know that he is, and what he is, <hi>Heb.</hi> 11.6.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>How know you that there is a God?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> By his Word, and by his works, <hi>Pſal.</hi> 19.1. <hi>Exod.</hi> 34.6, 7.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is God?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> God is a Spirit, Infinite, and Eternal, <hi>Joh.</hi> 4.24. <hi>Job</hi> 11.7, 8, 9. <hi>Pſal.</hi> 90.2.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>How many Gods are there?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> There is only one God, diſtin<g ref="char:EOLhyphen"/>guiſhed into three Perſons, Father, Son, and Holy Ghoſt, <hi>Deut.</hi> 6.4. 1 <hi>John</hi> 10.7. <hi>Mat.</hi> 28.19.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What are the Works of God?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Decree, Creation, and Providence, <hi>Act.</hi> 2.23. <hi>Epheſ.</hi> 1.11. <hi>Gen. ch.</hi> 1. <hi>Act.</hi> 17.28.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is Gods Decree?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> His fore-appointing and ordain<g ref="char:EOLhyphen"/>ing whatſoever comes to paſs, <hi>Epheſ.</hi> 1.4, 11. <hi>Rom.</hi> 9.22, 23.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is Creation?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Gods making all things of no<g ref="char:EOLhyphen"/>thing by the word of his power, <hi>Gen. ch.</hi> 1. <hi>Heb.</hi> 11.3.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is his Providence?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> His wiſe and powerful preſerving, and governing all his creatures, and all their actions, <hi>Mat.</hi> 10.29, 30, 31. <hi>Heb.</hi> 1.3.</p>
+            <p>
+               <pb n="3" facs="tcp:105535:4"/>
+               <label>Queſt.</label> 
+               <hi>In what eſtate did God make man?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> In his own Image, holy and hap<g ref="char:EOLhyphen"/>py, <hi>Gen.</hi> 1.26. <hi>Col.</hi> 3.10. <hi>Epheſ.</hi> 4.24.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>For what end did he make him?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> For his own glory, and ſervice, <hi>Rev.</hi> 4.11. <hi>Pſal.</hi> 95.6.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>How muſt he be ſerved?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> As he hath appointed in his Word, <hi>Deut.</hi> 12.32.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Do all men thus glorifie God, and ſerve him?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> No, neither are they able, <hi>Rom.</hi> 7.15, 19.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Why ſo?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Becauſe their whole nature is de<g ref="char:EOLhyphen"/>filed, and the actions thence proceeding are polluted, <hi>Rom.</hi> 5.12, 19. <hi>Eph.</hi> 2.1, 2, 3. <hi>Mat.</hi> 15.19.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Man being made holy, how came he to be thus defiled?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> By <hi>Adams</hi> firſt tranſgreſſion, <hi>Gen.</hi> 3.6. <hi>Eccleſ.</hi> 7.29.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Did all men fall in</hi> Adams <hi>firſt tranſgreſſion?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> All mankind being in his loins, ſin<g ref="char:EOLhyphen"/>ned in him, and fell with him in his firſt tranſgreſſion, <hi>Rom.</hi> 5.12. <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Cor.</hi> 15.21, 22.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>In what eſtate are all men then by Nature?</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:105535:5"/>
+               <label>Anſw.</label> In an eſtate of ſin and miſery, <hi>Rom.</hi> 5.12.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is ſin?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Sin is any tranſgreſſion of the law of God, whether it be in thought, word, or deed, 1 <hi>Joh.</hi> 3.4. <hi>Gen.</hi> 6.5. <hi>Gal.</hi> 5.19.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is the Law of God?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> It is a perfect rule of righteouſ<g ref="char:EOLhyphen"/>neſs, commanding good, and forbidding evil, <hi>Pſal.</hi> 19.7, 8. <hi>Deut.</hi> 12.32.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Where is this Law written?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> In the holy Scriptures; but the ſum of it is in the ten Commandments, <hi>Deut.</hi> 10.4.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Rehearſe the ten Commandments.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> God ſpake theſe words, and ſaid, I am the Lord thy God, <hi>&amp;c. Exod.</hi> 20.1, 2, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What do the Commandments teach us?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Holineſs towards God, and righteouſneſs towards our Neighbours, <hi>Rom</hi> 7.12. <hi>Luke</hi> 1.74, 75.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>How are theſe Commandments di<g ref="char:EOLhyphen"/>vided?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> I<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o two Tables, or parts, <hi>Exod.</hi> 31.18.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What do <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Commandments of the firſt Table teach us?</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:105535:5"/>
+               <label>Anſw.</label> Our duty towards God, <hi>Luke</hi> 10.27.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What do the Commands of the ſe<g ref="char:EOLhyphen"/>cond Table teach us?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Our duty towards man, <hi>Matth.</hi> 22.39. <hi>&amp;</hi> 7.12.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is the ſum of all?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> To love God above all, and our Neighbour as our ſelves, <hi>Matth.</hi> 22.37, 38, 39.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Why did God give us this Law?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> To be the rule of our obedience, <hi>Rom.</hi> 2.14, 15. <hi>&amp;</hi> 10.5.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Can any man perfectly keep all theſe Commandments?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> No, we all break them daily in thought, word, and deed, <hi>Eccleſ.</hi> 7.20. 1 <hi>John</hi> 1.8, 10. <hi>Gal.</hi> 5.17. <hi>Rom.</hi> 3.9, 10, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What puniſhment is due to the breakers of theſe Commands?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> All miſeries in this life, death it ſelf, and the pains of Hell for ever, <hi>Epheſ.</hi> 5.6. <hi>Gal.</hi> 3.10. <hi>Mat.</hi> 25.41, 46.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Do all men periſh in this eſtate of ſin, and miſery?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> No, Some ſhall be ſaved by a Re<g ref="char:EOLhyphen"/>deemer, <hi>Rom.</hi> 3.22. <hi>Gal.</hi> 3.27, 28. <hi>Acts</hi> 4.12.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Who is the Redeemer of loſt man?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> The Lord Jeſus Chriſt, 1 <hi>Tim.</hi> 2, 5, 6.</p>
+            <p>
+               <pb n="6" facs="tcp:105535:6"/>
+               <label>Queſt.</label> 
+               <hi>What is Jeſus Chriſt?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> The Eternal Son of God, very God, and very Man, <hi>John</hi> 1.14. <hi>Gal</hi> 4.4.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>How did Chriſt the Son of God be<g ref="char:EOLhyphen"/>come Man?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> By taking to himſelf a true body, and a reaſonable ſoul, <hi>Luk.</hi> 1.31, 35. <hi>Gal.</hi> 4.4.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Why muſt he be God and Man?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Becauſe as God he could not die, and as Man he could not overcome death, both which were neceſſary to our Re<g ref="char:EOLhyphen"/>demption, <hi>Heb.</hi> 2.14. 1 <hi>Cor.</hi> 15.3, 4.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>How did Chriſt redeem loſt man?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> By ſatisfying Gods juſtice in ſuf<g ref="char:EOLhyphen"/>fering what was due for mans ſin, and ſo reconciling him to God, <hi>Heb.</hi> 2.17. <hi>&amp;</hi> 9.14, 28.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>How was this effected?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> By his Death and Paſſion, by his Reſurrection and Aſcenſion, and by his continual Interceſſion for them, <hi>Luk.</hi> 23.33. 1 <hi>Cor.</hi> 15.3, 4. <hi>Acts</hi> 2.27. <hi>Mar.</hi> 16.19. <hi>Heb.</hi> 7.24, 25.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Are all men partakers of Chriſt, and the benefits purchaſed by Chriſt?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> No, only thoſe that lay hold upon him by a lively faith, <hi>Joh.</hi> 3.16. &amp; 1.12. <hi>Acts</hi> 13.39. <hi>Epheſ.</hi> 1.13, 14.</p>
+            <p>
+               <pb n="7" facs="tcp:105535:6"/>
+               <label>Queſt.</label> 
+               <hi>What is a lively Faith?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> It is a divine grace, whereby we do not only believe all things neceſſary to ſalvation, but are alſo enabled to take Chriſt upon his own terms, and to reſt up<g ref="char:EOLhyphen"/>on him alone for ſalvation, <hi>Act.</hi> 16.31. <hi>Pſal.</hi> 2.12.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Rehearſe the Articles of your Be<g ref="char:EOLhyphen"/>lief.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> I believe in God the Father Al<g ref="char:EOLhyphen"/>mighty, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>How many Articles are herein con<g ref="char:EOLhyphen"/>tained?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Twelve.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Have all thoſe juſtifying faith that believe the truth of theſe Articles?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> No, this may be done by an Hi<g ref="char:EOLhyphen"/>ſtorical faith, which an hypocrite may have, <hi>Acts</hi> 8.13.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>How then may Juſtifying Faith be known?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> By the fruits and effects of it; for true faith purifies the heart, when all other faith lets the heart alone, <hi>Act.</hi> 15.9.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What will become of thoſe that have not faith?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> They ſhall never ſee life, but the wrath of God abideth on them, <hi>Joh.</hi> 3.36.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>How is faith wrought?</hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:105535:7"/>
+               <label>Anſw.</label> Ordinarily by the Word and Spirit, <hi>Rom.</hi> 10.14. <hi>Acts</hi> 16.14.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What Word of God is requiſite to the working of faith?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Both the Law and the Goſpel, <hi>Rom.</hi> 7.7. <hi>Gal.</hi> 3.22. <hi>&amp;</hi> 4.4, 5.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>How is it encreaſed?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> By the ſame means whereby it is begotten, as alſo by the Sacraments, and prayer, 1 <hi>Pet</hi> 2.2. <hi>Luke</hi> 17.5. <hi>Gen.</hi> 17.9, <hi>&amp;c. Rom.</hi> 4.11.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is a Sacrament?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> It is a Sign and Seal of the Cove<g ref="char:EOLhyphen"/>nant of Grace, <hi>Gen.</hi> 17.11. <hi>Rom.</hi> 4.11.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>How many Sacraments hath Chriſt ordained in his Church?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Only two, Baptiſm and the Lords Supper, <hi>Mat.</hi> 28.19, 20. <hi>Luk.</hi> 22.19, 20.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>To what end did he ordain them?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> To ſtrengthen our Faith, and con<g ref="char:EOLhyphen"/>firm our aſſurance, <hi>Gen.</hi> 17.11. <hi>Rom.</hi> 4.11.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is to be conſidered in a Sacra<g ref="char:EOLhyphen"/>ment?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> The Sign, and the thing ſignified, <hi>Mat.</hi> 28.19. <hi>Rom.</hi> 6.4. <hi>Gen.</hi> 17.7.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is the outward ſign in Bap<g ref="char:EOLhyphen"/>tiſm?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Water, which is applyed to the body of the party baptized, <hi>Acts</hi> 10.47. <hi>Mat.</hi> 3.6.</p>
+            <p>
+               <pb n="9" facs="tcp:105535:7"/>
+               <label>Queſt.</label> 
+               <hi>In whoſe Name are they to be bap<g ref="char:EOLhyphen"/>tized?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> In the Name of the Father, of the Son, and of the Holy Ghoſt, <hi>Mat.</hi> 28.19, 20.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is ſignified by water?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> The blood of Chriſt which waſh<g ref="char:EOLhyphen"/>eth away the filth of the ſoul, as water doth the filth of the body, 1 <hi>Cor.</hi> 6.11. <hi>Act.</hi> 2.38. <hi>Tit.</hi> 3.5.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Who ought to be baptized?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Infidels converted to the Faith; and Infants of one, or both believing Pa<g ref="char:EOLhyphen"/>rents, <hi>Acts</hi> 8.12, 36, 37. <hi>&amp;</hi> 2.38, 39. <hi>Gen.</hi> 17.10. <hi>with Col.</hi> 2.11, 12. 1 <hi>Cor.</hi> 7.14.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is required of thoſe that are Baptized?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> To die unto ſin, and to live unto righteouſneſs, and to fight under Chriſts Banner, againſt Sin, the World, and the De<g ref="char:EOLhyphen"/>vil, <hi>Mat.</hi> 3.11. <hi>Rom.</hi> 6.3, 4.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is the viſible ſign in the Lords Supper?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Bread and Wine which are there broken and poured forth, <hi>Mat.</hi> 26.26, 27.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is thereby ſignified?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> The Body and Blood of Chriſt, which was broken, and poured out for the remiſſion of our ſins, 1 <hi>Cor.</hi> 11.24, 25.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>VVho ought to receive this Sacra<g ref="char:EOLhyphen"/>ment?</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:105535:8"/>
+               <label>Anſw.</label> Thoſe that upon examination find themſelves fit, and can diſcern the Lords body, 1 <hi>Cor.</hi> 11 28, 29.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Wherein muſt they examine them<g ref="char:EOLhyphen"/>ſelves?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Whether their knowledge, faith, repentance, love and obedience to God, be true and ſincere, <hi>Mat</hi> 22.11, 12. 1 <hi>Cor.</hi> 11.28, 29. 2 <hi>Cor.</hi> 13.5. 1 <hi>Cor.</hi> 11.31. 1 <hi>Cor.</hi> 10.16, 17. <hi>&amp;</hi> 5.7, 8.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Who ought to be excluded?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> The ignorant, and ſcandalous, 1 <hi>Cor.</hi> 11.29.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is the danger of unworthy re<g ref="char:EOLhyphen"/>ceivers?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> They are guilty of the body and blood of Chriſt, and eat and drink their own damnation, 1 <hi>Cor.</hi> 11.27, 29.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is prayer, that other means to increaſe faith?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> It is a calling upon God, in the Name of Chriſt, through the aſſiſtance of his Spirit, <hi>Exod.</hi> 14.15. 1 <hi>Sam.</hi> 1.13. <hi>John</hi> 16.23. <hi>Rom.</hi> 8.26.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>For what muſt we pray?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> For all things for this life, or that to come, which we ſtand in need of, and God hath promiſed, 1 <hi>Joh.</hi> 5.14.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What directions hath God given us for prayer?</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:105535:8"/>
+               <label>Anſw.</label> The general direction is his Word, but a ſpecial direction is the Lords Prayer, 1 <hi>John</hi> 5.14. <hi>Mat.</hi> 6.9, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Rehearſe the Lords Prayer.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Our Father which art in Heaven, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>How many parts are in the prayer?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Three, the Preface, the Petitions, and the Concluſion.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>Which is the Preface?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Our Father which art in Heaven, <hi>Mat.</hi> 6.9.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>How many Petitions are there?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Six; the three firſt concern Gods glory, and the three laſt humane neceſſity.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What is the Concluſion?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> For thine is the Kingdom, the power, and glory, for ever and ever, Amen. <hi>Mat.</hi> 6.13.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What are the parts of Prayer?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Confeſſion, Supplication, and Thankſgiving, <hi>Pſal.</hi> 32.5, 6. <hi>Dan.</hi> 9.4, 16. <hi>Phil.</hi> 4.6.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What will become of all men at death?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Their ſouls go immediately to Heaven or Hell, and their bodies remain in the grave till the Reſurrection, 1 <hi>Theſ.</hi> 4.15, <hi>Rev.</hi> 14.13. <hi>Mat.</hi> 5.8. 1 <hi>Cor.</hi> 13.12. <hi>Luk.</hi> 16.22, 23.</p>
+            <p>
+               <pb n="12" facs="tcp:105535:9"/>
+               <label>Queſt.</label> 
+               <hi>What will become of them at the Reſurrection?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Their ſouls and bodies ſhall be then raiſed, and brought before the Judge<g ref="char:EOLhyphen"/>ment Seat of Chriſt, 1 <hi>Cor.</hi> 15.42, 43, 51, 52.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What ſhall become of them at Judgement?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Every man ſhall then be judged according to his works; the godly ſhall be acquitted by their ſurety Chriſt; but the wicked ſhall be condemned to everlaſting deſtruction, <hi>John</hi> 5.28, 29. 2 <hi>Cor.</hi> 5.10. <hi>Mat.</hi> 25.23. <hi>&amp;</hi> 10.32. <hi>Mat.</hi> 25.24.</p>
+            <p>
+               <label>Queſt.</label> 
+               <hi>What ſhall become of them after judgement?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> The wicked ſhall be thruſt into Hell, to be tormented with the Devil and his Angels for ever; but the righteous ſhall enter into life eternal, <hi>Mat.</hi> 25.46. 1 <hi>John</hi> 3.2. <hi>John</hi> 17.24. <hi>Phil.</hi> 1.23. 2 <hi>Theſ.</hi> 1.7, 8, 9.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
